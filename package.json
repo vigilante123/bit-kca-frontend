@@ -1,17 +1,6 @@
 {
-<<<<<<< HEAD
-  "name": "dawood",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
-=======
   "name": "my-app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -48,5 +37,4 @@
       "last 1 safari version"
     ]
   }
->>>>>>> dcfc59af364033f63da51c813073bc7e97a0ab4d
 }
